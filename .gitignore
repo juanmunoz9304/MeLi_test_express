@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Archivos de configuración
+.env
+
+# Archivos generados en tiempo de ejecución
+/build/
+
+# Logs y archivos temporales
+logs/
+*.log
+npm-debug.log*
+
+# Dependencias específicas de sistemas operativos
+.DS_Store
+Thumbs.db
